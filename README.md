@@ -1,9 +1,8 @@
 # Angular5 Demo App [Template Source](https://startbootstrap.com/template-overviews/agency/)
 
-[logo]: https://angular.io/assets/images/logos/angular/angular.svg
+<center><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="150px" /></center>
 
-[logo]: https://startbootstrap.com/assets/img/templates/agency.jpg "Angular5 Demo App"
-
+<img src="https://startbootstrap.com/assets/img/templates/agency.jpg" alt="Angular5 Demo App" width="100%" />
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
