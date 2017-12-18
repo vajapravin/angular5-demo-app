@@ -1,6 +1,8 @@
-# CheffRecipes
+# Angular5 Demo App [Template Source](https://startbootstrap.com/template-overviews/agency/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
+[logo]: https://angular.io/assets/images/logos/angular/angular.svg
+
+[logo]: https://startbootstrap.com/assets/img/templates/agency.jpg "Angular5 Demo App"
 
 ## Development server
 
